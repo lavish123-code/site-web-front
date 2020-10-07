@@ -1,7 +1,7 @@
 # Liege Hackerspace Website
 
 This is the repository of the Front Pages for
-Liege Hackerspace (LgHS) Website. Welcome.
+Liege Hackerspace (LgHS) Website. Welcome to all of you.
 
 ## How to run
 
